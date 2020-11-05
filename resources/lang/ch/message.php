@@ -1,0 +1,93 @@
+<?php
+
+return [
+    
+    "Record successfully save"          => "Record successfully save",
+    "Record successfully updated"       => "Record successfully updated",
+    "Record successfully Deleted"       => "Record successfully Deleted",
+    "Profile City Updated"              => "Profile City Updated",
+    "Feedback successfully created"     => "Feedback successfully created",
+    "Feedback successfully updated"     => "Feedback successfully updated",
+    "Feedback deleted successfully"     => "Feedback deleted successfully",
+    "Interview sucessfully deleted"     => "Interview sucessfully deleted",
+    "User successfully save."           => "User successfully save.",    
+    "Record successfully deleted"       => "Record successfully deleted",
+    "Status successfully change"        => "Status successfully change",
+    "Teacher successfully save."        => "Teacher successfully save.",
+    "Teacher deleted successfully"      => "Teacher deleted successfully",
+    "Video deleted successfully"        => "Video deleted successfully",
+    "Job successfully save"             => "Job successfully save",
+    "Job deleted successfully"          => "Job deleted successfully",
+    "Contract successfully sent"        => "Contract successfully sent",
+    "School Contract successfully sent" => "School Contract successfully sent",
+    "Contract sucessfully deleted"      => "Contract sucessfully deleted",
+    "Offer status sucessfully change"   => "Offer status sucessfully change",
+    "Offer updated successfully"        => "Offer updated successfully",
+    "Offer successfully sent"           => "Offer successfully sent",
+    "Offer sucessfully deleted"         => "Offer sucessfully deleted",
+    "Profile successfully update"       => "Profile successfully update",
+    "Information successfully save"     => "Information successfully save",
+    "Education successfully deleted"    => "Education successfully deleted",
+    "Experience successfully deleted"   => "Experience successfully deleted",
+    "Location successfully deleted"     => "Location successfully deleted",
+    "Instant Messenger successfully deleted" => "Instant Messenger successfully deleted",
+    "Password successfully change."     => "Password successfully change.",
+    "Old password does not match."      => "Old password does not match.",
+    "Confirm password does not updated." => "Confirm password does not updated.",
+    "Report successfully sent."         => "Report successfully sent.",
+    "Report successfully rejected."     => "Report successfully rejected.",
+    "Report successfully deleted."      => "Report successfully deleted.",
+    "Travel arrangement successfully save"      => "Travel arrangement successfully save",
+    "Travel arrangement successfully deleted"   => "Travel arrangement successfully deleted",
+    "Travel arrangement status sucessfully rejected" => "Travel arrangement status sucessfully rejected",
+    "Travel arrangement successfully save"      => "Travel arrangement successfully save",
+    "Document successfully save."               => "Document successfully save.",
+    "Due to some error pelase try again"        => "Due to some error pelase try again",
+    "Information successfully save."            => "Information successfully save.",
+    "Position successfully created."            => "Position successfully created.",
+    "Position successfully updated."            => "Position successfully updated.",
+    "Record successfully deleted."              => "Record successfully deleted.",
+
+    "You can only invite for three interviews at the same time. Please complete any previous interview first, and then you can invite or accept a new interview." =>
+     "You can only invite for three interviews at the same time. Please complete any previous interview first, and then you can invite or accept a new interview.",
+    
+    "This teacher’s interview time has been fully reserved. There are still three interviews for this teacher that have not been completed." => "This teacher’s interview time has been fully reserved. There are still three interviews for this teacher that have not been completed.",
+
+    "Due to some error please try again."               => "Due to some error please try again.",
+    "You have successfully applied for this teacher"    => "You have successfully applied for this teacher",
+
+    "This email is not verified yet, please check your inbox to activate your account!" => "This email is not verified yet, please check your inbox to activate your account!",
+
+    "Please enter the correct credentials"              => "Please enter the correct credentials",
+    "Due to some error please try again."               => "Due to some error please try again.",
+    "Password has been reset. and sent to you mailbox"  => "Password has been reset. and sent to you mailbox",
+    "Email not found in the system."                    => "Email not found in the system.",
+    "Username not found in the system."                 => "Username not found in the system.",
+    "Username has been sent please check your mailbox"  => "Username has been sent please check your mailbox",
+    "Password has been reset."                          => "Password has been reset.",
+    "Thank you. your account has been verified."        => "Thank you. your account has been verified.",
+    "Thank you!  Your information successfully sent."   => "Thank you!  Your information successfully sent.",
+    "Contract status sucessfully change"                => "Contract status sucessfully change",
+    "Interview status sucessfully change"               => "Interview status sucessfully change",
+
+    "Note sucessfully updated"                  => "Note sucessfully updated",
+    "Interview status sucessfully change"       => "Interview status sucessfully change",
+
+    "You can only invite for three interviews at the same time. Please complete any previous interview first, and then you can invite or accept a new interview." => "You can only invite for three interviews at the same time. Please complete any previous interview first, and then you can invite or accept a new interview.",
+    
+    "Interview Time status sucessfully change"  => "Interview Time status sucessfully change",
+    "Contract status sucessfully change"        => "Contract status sucessfully change",
+    "Offer status sucessfully change"           => "Offer status sucessfully change",
+    "Status successfully changed"               => "Status successfully changed",
+    "Travel status sucessfully change"          => "Travel status sucessfully change",
+    "User successfully assign"                  => "User successfully assign",
+    "Status successfully updated"               => "Status successfully updated",
+    "Note successfully updated"                 => "Note successfully updated",
+    "Emergency Level Updated"                   => "Emergency Level Updated",
+    "Job Successfully Recommend"                => "Job Successfully Recommend",
+    "Teacher Successfully Recommend"            => "Teacher Successfully Recommend",
+    "Match Status successfully change"          => "Match Status successfully change",
+
+    
+
+];
